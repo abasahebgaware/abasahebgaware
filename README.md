@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abasahebgaware
 - 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning React 
+- 🌱 I’m React Js Developer
 
 
 <!---
